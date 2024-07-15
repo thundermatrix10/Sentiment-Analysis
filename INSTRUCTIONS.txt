@@ -1,0 +1,7 @@
+pip install transformers
+pip install pillow
+pip install torch
+
+Inke alawa kuch aur hoga toh woh bhi install kr lena
+
+Aur sirf "train.py" hi run karni hai tujhe...
